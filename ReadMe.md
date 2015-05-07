@@ -14,6 +14,8 @@
 
 * Define 3 Milestones in your repo.  The last of which must be "Release" and is due on 28 May.
 
+* Start on wireframes.  **Balsamiq coming!**
+
 **Deliver** - Link to milestones, with some issues in at least the first.  Rough wireframes.
 
 ## Thursday 14 May 2015 - Basic Launch
